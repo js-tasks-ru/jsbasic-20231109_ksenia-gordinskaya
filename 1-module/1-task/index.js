@@ -1,3 +1,3 @@
 function factorial(n) {
-  // ваш код...
+  return n! = n * (n - 1) * (n - 2) * ...*1
 }
