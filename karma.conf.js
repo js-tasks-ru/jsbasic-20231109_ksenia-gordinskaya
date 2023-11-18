@@ -16,7 +16,7 @@ module.exports = function(config) {
     files: [
       {
         //pattern: '{0,1,2,3,4,5}-module/*task/*.js',
-        pattern: '{0,}
+        
         }-module/*task/*.js',
       },
       {
